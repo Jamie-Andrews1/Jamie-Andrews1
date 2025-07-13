@@ -1,7 +1,9 @@
 ### 👋 Hi, Im Jamie Andrews a self taught developer learning all aspects of web and software development to create useful applications for myself and others to use and enjoy.   
 
 # About Me
-With a background in construction giving me lot of practical skills and problem solving skills to help me on my journey. I have built up technical skills building many pc's and configuring them, and have now come to find a passion for coding and building web apps and whatever I can put my mind to I am a keen problem solver and believe that anything is possible.
+I got started in development at the begining of 2020 previously I had only built computers, configured them and earned a comptia A+ certificate. I began learning Html, Css and Javascript then NodeJs as a backend language. I used what I knew to build a site for my wifes business to save on the money she would spend on wix, just before I had picked up React and used Gatsby. I went about building the site in nextjs and used Typescript.
+
+I have been enjoying learning C and improving my backend knowledge with Nodejs and .NET, while also keeping up to date with Typescript and css newest features. I use Fedora as my OS and VS Code as my IDE.
 
 # Technical Skills
 - Languages: Javascript, Typescript, C, C#

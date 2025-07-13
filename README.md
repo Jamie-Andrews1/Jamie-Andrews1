@@ -1,4 +1,4 @@
-### 👋 Hi, Im Jamie Andrews a self taught developer learning all aspects of web and software development to create useful applications for myself and others to use and enjoy.   
+### 👋 Hi, Im Jamie Andrews welcome to my GitHub profile.
 
 # About Me
 I got started in development at the beginning of 2020 previously I had only built computers, configured them and earned a comptia A+ certificate. I began learning Html, Css and Javascript then NodeJs as a backend language. I used what I knew to build a site for my wifes business to save on the money she would spend on wix, just before I had picked up React and used Gatsby. I went about building the site in nextjs and used Typescript.

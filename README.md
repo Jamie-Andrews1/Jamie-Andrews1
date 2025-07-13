@@ -6,11 +6,21 @@ I got started in development at the beginning of 2020 previously I had only buil
 I have been enjoying learning C and improving my backend knowledge with Nodejs and .NET, while also keeping up to date with Typescript and css newest features. I use Fedora as my OS and VS Code as my IDE.
 
 ## Technical Skills
-- Languages: Javascript, Typescript, C, C#
+- Languages: Javascript, Typescript, C, C# 
 - Frameworks & Libraries: React, NextJs, NodeJs, .NET
 - Tools & Platforms: Aws, DigitalOcean, Git, Linux, Caddy
 
-
+[![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/Javascript--F7DF1E?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css)
+![Static Badge](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html5&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <!--
 **Jamie-Andrews1/Jamie-Andrews1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

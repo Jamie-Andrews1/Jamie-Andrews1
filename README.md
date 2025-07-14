@@ -17,6 +17,7 @@ I have been enjoying learning C and improving my backend knowledge with Nodejs a
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/Javascript--F7DF1E?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 ![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html5&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)

@@ -1,8 +1,6 @@
 
 <h3 align="center" > 👋 Hi, Im Jamie Andrews welcome to my GitHub profile.</h3>
 
-![Untitled design](https://github.com/user-attachments/assets/7ab24983-1b2a-4511-baae-6468021da1bf)
-
 ## About Me
 I got started in development at the beginning of 2020 previously I had only built computers, configured them and earned a comptia A+ certificate. I began learning Html, Css and Javascript then NodeJs as a backend language. I used what I knew to build a site for my wife's business to save on the money she would spend on a service, just before I had picked up React and used Gatsby. I went about building the site in nextjs and used Typescript.
 

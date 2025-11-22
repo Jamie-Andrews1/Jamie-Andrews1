@@ -7,7 +7,7 @@ I got started in development at the beginning of 2020 previously I had only buil
 I have been enjoying learning C and improving my backend knowledge with Nodejs and .NET, while also keeping up to date with Typescript and css newest features. I use Fedora as my OS and VS Code as my IDE.
 
 ## :computer: Technical Skills
-- Languages: Javascript, Typescript, C, C# 
+- Languages: Javascript, Typescript, C, C#
 - Frameworks & Libraries: React, NextJs, NodeJs, .NET
 - Tools & Platforms: Aws, DigitalOcean, Git, Linux, Caddy
 
